@@ -1,0 +1,1 @@
+# banki_shop_test
