@@ -1,4 +1,4 @@
-# frontend
+# banki_shop_test
 
 ## Project setup
 ```
